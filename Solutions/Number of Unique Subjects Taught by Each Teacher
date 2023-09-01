@@ -1,2 +1,9 @@
+# Number of Unique Subjects Taught by Each Teacher
+
+Problem No : 2356
+
+
+Solution:
+
 select teacher_id,count(distinct(subject_id)) as cnt
 from teacher group by teacher_id
