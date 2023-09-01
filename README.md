@@ -9,11 +9,14 @@ I welcome contributions from the community to make this repository even more val
 
 ![1645067474269](https://github.com/IAMSAGAYAABINESH/Sagaya-SQL-Leetcode/assets/76099682/0468391e-2a05-4d7d-bd9f-a7c08689dcc8)
 
-Let's Connect
+**Let's Connect**
+
 I'm excited to engage with the programming community and fellow learners. If you'd like to connect, have questions, or want to discuss SQL, feel free to reach out to me via my GitHub or LinkedIn profiles.
 
 Sagaya Abinesh R
+
 GitHub: https://github.com/IAMSAGAYAABINESH
+
 LinkedIn: https://www.linkedin.com/in/sagaya-abinesh-r-970b84216/
 
 Happy coding and SQL querying!
