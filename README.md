@@ -1,4 +1,4 @@
-# Sagaya-SQL-Leetcode
+# SQL-Leetcode-Solutions😎
 
 Welcome to my LeetCode SQL Solutions repository! Here, you'll find a collection of my solutions to various SQL problems from LeetCode. I've created this repository to share my solutions and provide a resource for others who are also looking to improve their SQL skills through practice and learning.
 
