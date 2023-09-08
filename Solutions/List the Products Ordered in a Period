@@ -27,3 +27,7 @@ Write a solution to get the names of products that have at least 100 units order
 Return the result table in any order.
 
 The result format is in the following example.
+
+Solution : 
+
+select a.product_name , b.unit from products a join (select product_id,order_date,sum(unit) as unit from orders where year(order_date)=2020 and month(order_date)=2 group by product_id) b on a.product_id=b.product_id where unit>=100
