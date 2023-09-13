@@ -3,7 +3,6 @@ Fix Names in a Table
 Problem No : 1667
 
 Table: Users
-
 +----------------+---------+
 | Column Name    | Type    |
 +----------------+---------+
