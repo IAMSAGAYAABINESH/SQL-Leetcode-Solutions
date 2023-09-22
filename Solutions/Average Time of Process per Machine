@@ -21,7 +21,7 @@ The resulting table should have the machine_id along with the average time as pr
 
 Return the result table in any order.
 
-The result format is in the following example.
+The result format is in the following example :
 
 
 Example 1:
@@ -53,6 +53,6 @@ Output:
 | 2          | 1.456           |
 +------------+-----------------+
 
-Solution : 
+Solution :   
 
 select a.machine_id,round((select avg(a1.timestamp) from activity a1 where activity_type='end' and a1.machine_id=a.machine_id)-(select avg(a1.timestamp) from activity a1 where activity_type='start' and a1.machine_id=a.machine_id),3) as processing_time from activity a group by machine_id
