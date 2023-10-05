@@ -14,11 +14,11 @@ I welcome contributions from the community to make this repository even more val
 
 I'm excited to engage with the programming community and fellow learners. If you'd like to connect, have questions, or want to discuss SQL, feel free to reach out to me via my GitHub or LinkedIn profiles.
 
-Sagaya Abinesh R
+**Sagaya Abinesh R**
 
-GitHub: https://github.com/IAMSAGAYAABINESH
+**GitHub**: https://github.com/IAMSAGAYAABINESH
 
-LinkedIn: https://www.linkedin.com/in/sagaya-abinesh-r-970b84216/
+**LinkedIn**: https://www.linkedin.com/in/sagaya-abinesh-r-970b84216/
 
 Happy coding and SQL querying!
 
