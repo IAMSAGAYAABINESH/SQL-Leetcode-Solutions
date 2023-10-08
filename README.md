@@ -16,6 +16,9 @@ I'm excited to engage with the programming community and fellow learners. If you
 
 **Sagaya Abinesh R**
 
+![Sql_data_base_with_logo](https://github.com/IAMSAGAYAABINESH/SQL-Leetcode-Solutions/assets/76099682/84a1a252-c675-4aba-872b-6dbc0de96aa8)
+
+
 **GitHub**: https://github.com/IAMSAGAYAABINESH
 
 **LinkedIn**: https://www.linkedin.com/in/sagaya-abinesh-r-970b84216/
