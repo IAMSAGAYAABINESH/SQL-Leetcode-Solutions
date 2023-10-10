@@ -41,3 +41,6 @@ Output:
 
 Solution : 
 
+select distinct a.num as ConsecutiveNums from (select num,lead(num,1) over() num1,lead(num,2) over() num2 from logs) a
+where (num=num1) and (num=num2)
+
