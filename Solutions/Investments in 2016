@@ -43,3 +43,9 @@ Output:
 | 45.00    |
 +----------+
 
+Solution : 
+
+select round(sum(tiv_2016),2) as tiv_2016 from 
+(select *,count(*) over(partition by tiv_2015) as cnt1,
+count(*) over (partition by lat,lon) as cnt2 from 
+insurance) as t1 where cnt1>=2  and cnt2=1
